@@ -20,7 +20,7 @@ html {
 }
 
 body {
-    background-image: url("background.png");
+    background-image: url("Background.png");
     background-size: cover;
     position: relative;
     width: 100%;
