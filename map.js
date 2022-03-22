@@ -19,7 +19,7 @@ let isMobile = {
     }
   };
   
-  if (window.innerHeight > window.innerWidth && !window.location.href.endsWith("mapobile.html")) {
+  if (window.innerHeight > window.innerWidth && !window.location.href.endsWith("mapmobile.html")) {
   window.location.replace("mapmobile.html");
   };
   
